@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-IB API - stratgey implementation template for TI based Strategies
-
-@author: Mayank Rasu (http://rasuquant.com/wp/)
-"""
 
 # Import libraries
 from ibapi.client import EClient
