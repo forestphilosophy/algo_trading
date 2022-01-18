@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-IB API - streaming aggregated snapshot data
-
-@author: Mayank Rasu (http://rasuquant.com/wp/)
-"""
 
 # Import libraries
 from ibapi.client import EClient
