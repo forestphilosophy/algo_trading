@@ -1,2 +1,2 @@
 # Algorithmic-Trading
-This is the complete repository of the trading algorithm and supporting scripts. 
+Everything algo trading related. 
