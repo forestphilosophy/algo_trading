@@ -102,7 +102,7 @@ for ticker in tickers:
     if reqId in app.error_msg.keys():
         if app.error_msg[reqId] in [162,
                                     200]:  # error handling for there's no market subscription for certain tickers or unclear contract description
-            print("I caught this hoe that don't wanna load!")
+            print("I caught this guy that doesn't wanna load!")
             continue
 
     while not app.reception_tracker[reqId]:  # if not data has not been fully pulled => wait
